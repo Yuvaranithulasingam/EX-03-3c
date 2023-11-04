@@ -1,4 +1,4 @@
-# EX-3(C)         POSITIVE ARRAY ELEMENTS
+# EX-3(C)         ONE DIMENSIONAL ARRAY
 
 ## AIM:
 To create  a C program to read n elements as input and print the last element of the array (integer).
